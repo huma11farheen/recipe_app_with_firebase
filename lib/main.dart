@@ -3,7 +3,9 @@ import 'package:flutter_recipe_app/views/fav_list.dart';
 import 'package:flutter_recipe_app/views/save_recipe.dart';
 import 'package:flutter_recipe_app/views/search_recipe_screen.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(MyApp()
+                     
+                     );
 
 class MyApp extends StatelessWidget {
   @override
